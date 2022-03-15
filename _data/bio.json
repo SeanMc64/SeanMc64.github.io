@@ -29,19 +29,19 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Bioinformatics",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "",
+        ""
       ]
     },
     {
-      "name": "data mining",
+      "name": "Visualisation",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Predictive Analytics",
       "keywords": [
       ]
     }
