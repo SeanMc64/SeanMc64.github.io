@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Seán McMahon",
+    "label": "Data Science Analyst",
+    "picture": "https://techfolios.github.io/template/images/profilepicture.png",
+    "email": "sean.mcmahon64@gmail.com",
+    "phone": "",
+    "website": "https://SeanMc64.github.io",
+    "summary": "Data Science Analyst at Accenture with a Masters Degree in Statistics from University College Dublin",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,23 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "SeanMc64",
+        "url": "http://github.com/SeanMc64"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "https://www.linkedin.com/in/seán-mcmahon-267051168/"
       }
     ]
   },
