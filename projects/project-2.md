@@ -8,9 +8,8 @@ permalink: projects/flights
 date: 2015-12-15
 labels:
   - Statistical Network Analysis
-  - Resiliance to random attack assessment
+  - Resiliance to point attacks analaysis
   - R
-  - 
   summary: Statistical Netowrk Analysis of global flights/airport connections
 ---
 
