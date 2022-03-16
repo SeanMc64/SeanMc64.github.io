@@ -5,7 +5,7 @@ image: images/flights.png
 title: Airport Network Analysis
 permalink: projects/flights
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2021-02-15
 labels:
   - Statistical Network Analysis
   - Resiliance to point attacks analaysis
