@@ -7,8 +7,8 @@ permalink: projects/flights
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-15
 labels:
-  - Test
-  - Test1
+  - Statistical Network Analysis
+  - Testing resiliance to random and targeted point attacks
   - R
 summary: Statistical Netowrk Analysis of global flights/airport connections
 ---
