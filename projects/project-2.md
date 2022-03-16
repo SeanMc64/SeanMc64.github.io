@@ -10,7 +10,7 @@ labels:
   - Test
   - Test1
   - R
-  summary: Statistical Netowrk Analysis of global flights/airport connections
+summary: Statistical Netowrk Analysis of global flights/airport connections
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
