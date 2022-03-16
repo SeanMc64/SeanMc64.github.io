@@ -1,17 +1,17 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/flights.png
+title: Airport Network Analysis
+permalink: projects/flights
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Statistical Network Analysis
+  - Resiliance to random attack assessment
+  - R
+  - 
+  summary: Statistical Netowrk Analysis of global flights/airport connections
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
