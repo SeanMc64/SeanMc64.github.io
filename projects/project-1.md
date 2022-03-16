@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/ucd.png
+title: Master's Degree Thesis
+permalink: projects/thesis
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-08-14
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Classification
+  - Biological Data
+  - R
+summary: My minor thesis submitted as part of my Master's Degree in Statistics. Grade recieved : A
 ---
 
 <div class="ui small rounded images">
