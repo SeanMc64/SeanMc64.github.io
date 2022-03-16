@@ -13,7 +13,7 @@ labels:
 summary: My minor thesis submitted as part of my Master's Degree in Statistics. Grade recieved - A
 ---
 
-<div class="ui large rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/box.PNG">
   <img class="ui image" src="../images/hist.PNG">
   <img class="ui image" src="../images/rocr.PNG">
