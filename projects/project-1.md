@@ -10,7 +10,7 @@ labels:
   - Classification
   - Biological Data
   - R
-summary: My minor thesis submitted as part of my Master's Degree in Statistics. Grade recieved : A
+summary: My minor thesis submitted as part of my Master's Degree in Statistics. Grade recieved - A
 ---
 
 <div class="ui small rounded images">
