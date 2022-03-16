@@ -28,5 +28,5 @@ I examined a dataset consisting of 1991 recorded mastitis infections, with 56 di
 
 It was very rewarding to be able to provide exploratory data analysis that was then used as part of a larger Academic and Semi-State collaborative project aimed at in reducing the impact of mastitis infections in Ireland, and this explains why it took up such a large section of my thesis! Despite this, I was very satistifed to be the ﬁrst to examine the factors relating to a subclinical versus clinical diagnosis of mastitis in dairy cattle. Past studies have used mixed eﬀects logitic models to predict clinical infections, and others to predict subclinical infections, but this was the ﬁrst study examining the question of 'Given that a mastitis infection exists in a dairy cow, what factors relate to a subclinical versus a clinical mastitis diagnosis.'
 
-Please feel free to contact me to ask any further information, you can [view the pdf thesis here](https://seanmc64.github.io/images/thesis.pdf).
+Please feel free to contact me to ask any further information, you can [view the pdf thesis here](https://seanmc64.github.io/Thesis.pdf).
 
