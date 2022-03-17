@@ -4,7 +4,7 @@ type: project
 image: images/flights.png
 title: Airport Network Analysis
 permalink: projects/flights
-# All dates must be YYYY-MM-DD format! 
+# All dates must be YYYY-MM-DD format!
 date: 2020-05-22
 labels:
   - Statistical Network Analysis
