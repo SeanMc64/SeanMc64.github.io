@@ -9,16 +9,16 @@ date: 2020-05-22
 labels:
   - Statistical Network Analysis
   - Resiliance to random and targeted point attacks
-  - Centrality measures
   - Clustering
   - R
   - igraph
 summary: Statistical Netowrk Analysis of global flights/airport connections
 ---
 
-<img class="ui medium right floated rounded image" src="../images/node.png">
-
-<img class="ui medium right floated rounded image" src="../images/connect.png">
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/node.png">
+  <img class="ui image" src="../images/connect.png">
+</div>
 
 In this project I tried to gain some insights on the topology of the transportation infrastructure that people use to move around the world while also familiarising myself on working with statistical networks in R through the use of igraph and other packages like blockmodels. This topic was particularly relevant at the time of the study as it was carried out  in light of the spread of the pandemic Covid-19. This study looked at the connectivity of 225 'countries' (Disconnected landmasses such as Jersey and the Isle of Man were considered as an independent country).
 
